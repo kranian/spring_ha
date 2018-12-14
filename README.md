@@ -9,3 +9,5 @@ java -jar *.jar --spring.profiles.active=zone2
 # 브라우저 
 http://localhost:8081/simple-service/zone 
 
+# down test 
+zone2 service down 
